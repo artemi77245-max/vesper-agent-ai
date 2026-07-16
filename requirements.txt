@@ -1,0 +1,6 @@
+# OpenAI-совместимый клиент — им обращаемся к OpenRouter
+openai>=1.0
+# Чтение ключа и настроек из .env
+python-dotenv>=1.0
+# httpx с поддержкой socks — нужно для прокси (NekoBox socks5://...)
+httpx[socks]>=0.27
