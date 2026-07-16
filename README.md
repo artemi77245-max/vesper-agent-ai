@@ -56,7 +56,7 @@ Vesper — твой кодинг-агент. Свет в сумерках код
    (бесплатный: https://openrouter.ai/keys):
    ```
    OPENROUTER_API_KEY=твой_ключ
-   VESPER_MODEL=google/gemini-2.0-flash-exp:free
+   VESPER_MODEL=openai/gpt-oss-20b:free
    ```
 2. Установи зависимости и запусти:
    ```bash
